@@ -1,1 +1,37 @@
-imp
+CHapter1:
+Objectives, Functions of OS - 5 mrk question
+Operating system structures: Layered, Monolithic and Microkernel- 10or 5 mrk question fix
+System Calls - 5mrk question fix 101%
+
+CHapter2:
+Concept of a Process, Process States, Process Description, Process Control Block- 5mrk question fix 101%
+Uniprocessor Scheduling-Types: Preemptive and Non-preemptive scheduling algorithms (FCFS, SJF, SRTN, Priority, RR):10 mrk question and sum 101% fix
+Threads: Definition and Types and  Concept of Multithreading - 10 mrk question fix 101%
+
+Chapter3:
+Inter-Process Communication - 10 mrk question 101% fix
+Process Synchronization - 5mrk topic
+Mutual Exclusion - 5 mrk topic
+Principles of Deadlock: Deadlock Prevention - 5mrk topic
+Banker‟s Algorithm,- 5 mrk  topic
+Dining Philosophers Problem. - 10 mrk question fix 101%
+
+Chapter4:
+Memory Partitioning: Fixed,Partitioning, Dynamic Partitioning - anyone will be asked fix
+Memory Allocation Strategies
+Virtual Memory**
+Page Replacement Strategies:FIFO*, Optimal*, LRU*, Thrashing-- sum or question (sum of fifo, LRU ) 10 mrk 101% fix
+
+Chapter5:
+File Organization and Access - 10 mrk question or 5 mrk question fix 101%
+File Sharing 
+
+Chapter6:
+Organization of the I/O Function - 5 or 10 mrk question
+Disk Organization, 
+I/O Management and Disk Scheduling: FCFS*, SSTF*, SCAN*, CSCAN*, LOOK*, C-LOOK*. - 10 mrk question 101 % fix
+
+
+Passing 50-55 mrks 
+1,2,3,4,5,6 -thorey
+2,4 -sum
