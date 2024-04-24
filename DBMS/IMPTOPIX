@@ -1,1 +1,32 @@
-DBMS 
+Chapter1:
+Characteristics of databases, File system v/s Database system - 5 mrk question fix 101 % fix
+Data abstraction and data Independence - 5 mrk question fix
+DBMS system architecture - 10 mrk question 101% fix 
+
+Chapter 2:
+Weak and strong entity difference between - 5mrk question fix 101%
+Types of Attributes - 5mrk question
+Keys and Relationship constraints- 5 mrk question
+Generalization, Specialization and Aggregation  - 10 mrk question fix 101% fix
+Entity-Relationship diagram -101 % fix 10 mrk question
+
+Chapter3:
+relational schema- 5 mrk topic
+Relational Algebra-operators - 10 or 5 mrks question fix 101%
+Relational Algebra Queries-10 or 5 mrk question fix 101%
+
+Chapter4:
+ Data Definition Commands,Data Manipulation commands, Data Control commands , Set and string
+operations, aggregate function-group by, having, Views in SQL, joins,Nested and complex queries, Triggers
+15-20 mrk chapter imp and easy
+
+Chapter5:(10 mrk topic easy)
+Concept of normalization, Function Dependencies, First Normal Form, 2NF, 3NF, BCNF - 5mrk and 10 mrk question fix
+
+Chapter6:
+ACID properties- 5 mrk question 101% fix
+Transaction Control Commands - 5 or 10 mrk  question
+Concurrency Control: Lock-based, Timestamp-based protocols** (TBS is imp*)
+Recovery System: Log based recovery, Deadlock handling - 10 mrk question fix 101%
+
+50-60 mrk easy passing chapter:1,2,3,5,6 (4 is you can)
