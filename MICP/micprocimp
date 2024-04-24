@@ -1,1 +1,26 @@
-k 
+CHpater1:
+8086CPU Architecture,Banking in 8086,Programmer’s Model  - 10 mrk question 101% fix
+Memory Segmentation ,Demultiplexing of Address/Data bus - 5 mrk question 
+
+CHpater2:
+Addressing Modes- 5 mrk question
+Data Transfer Instructions, String Instructions, Logical Instructions, Arithmetic Instructions, Transfer of Control Instructions,
+Processor Control Instructions - 5 mrk question
+Macros,Procedures - difference , code ,explain - 10 mrk question fix 101%
+Assembly Language Programming code -10 mrk question
+
+CHpater3:
+RAM and ROM Decoding Techniques –
+8255-PPI-Block diagram,operating modes
+8257-DMAC-Block diagram
+
+CHpater4:
+Architecture of 80386 microprocessor ,Architecture of 80386 microprocessor - 10 mrk question fix 101%
+80386 memory management in Protected Mode – Descriptors and selectors
+
+CHpater5:
+Pentium Architecture ,Superscalar Operation, Cache Organization and MESI protocol
+CHpater6:
+Comparative study of 8086, 80386, Pentium I, Pentium II and PentiumIII -50-50%
+Pentium 4: Net burst micro architecture. - fix 101%
+Hyper threading technology and its use in Pentium 4
